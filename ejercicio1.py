@@ -4,12 +4,12 @@ import xml.etree.ElementTree as ET
 # Funcion del XML Students
 def students():
     # Crear el elemento padre "books"
-    padre = ET.Element('books')
+    padre = ET.Element('students')
     # Recorreger 5 veces el hijo students
     for i in range(5):
         # Incrementar el id por cada students que haya
         i += 1
-        hijos = ET.SubElement(padre, "students")
+        hijos = ET.SubElement(padre, "student")
         # Agregar un atributo (id y lo vamos incrementando)
         hijos.set('id', str(i))
         # Agregamos los subhijos name surname email y dni
