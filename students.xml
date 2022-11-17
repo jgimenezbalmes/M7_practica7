@@ -1,0 +1,32 @@
+<students>
+  <student id="1">
+    <name>Jonathan</name>
+    <surname>Valle</surname>
+    <email>jvalle@jaumebalmes.net</email>
+    <dni>26634404J</dni>
+  </student>
+  <student id="2">
+    <name>Maravillas</name>
+    <surname>Perez</surname>
+    <email>maravillasPerez@jaumebalmes.net</email>
+    <dni>56970932R</dni>
+  </student>
+  <student id="3">
+    <name>Emilio</name>
+    <surname>Marrero</surname>
+    <email>emilioMarrero@jaumebalmes.net</email>
+    <dni>57689547G</dni>
+  </student>
+  <student id="4">
+    <name>Estrella</name>
+    <surname>Rio</surname>
+    <email>estrellaRio@jaumebalmes.net</email>
+    <dni>86939702R</dni>
+  </student>
+  <student id="5">
+    <name>Evaristo</name>
+    <surname>Betancon</surname>
+    <email>EvaristoBet@jaumebalmes.net</email>
+    <dni>23796572J</dni>
+  </student>
+</students>
